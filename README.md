@@ -39,15 +39,6 @@ Version Control: Git & GitHub
 
 Deployment:  Vercel 
 
-📂 Project Structure
-src/
- ┣ components/
- ┃ ┣ SearchBar.jsx
- ┃ ┣ WeatherCard.jsx
- ┃ ┗ Loader.jsx
- ┣ App.js
- ┣ index.js
- ┗ styles/
 
 ⚙️ Installation & Setup
 # Clone the repository
@@ -61,3 +52,4 @@ npm install
 
 # Start development server
 npm start
+
